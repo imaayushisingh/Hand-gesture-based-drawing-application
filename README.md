@@ -61,7 +61,9 @@ This project can be used as an interactive educational tool, an art creation pla
 #### Install Dependencies:
 - Ensure you have the required Python dependencies installed. You can install them using pip:
 
-```pip install opencv-python numpy mediapipe```
+```bash
+pip install opencv-python numpy mediapipe
+```
 
 #### Run the Application:
 - Execute the Python script to run the drawing application:
