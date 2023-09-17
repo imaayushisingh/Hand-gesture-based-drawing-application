@@ -10,28 +10,28 @@ This project is a hand gesture-based drawing application that allows users to cr
 - #### Gesture Recognition: 
   Users can interact with the drawing canvas by performing specific hand gestures. Key gestures include:
 - #### Multiple Color Selection: 
-By positioning the hand over predefined color zones, users can switch between different colors (teal, yellow, purple, and green).
+  By positioning the hand over predefined color zones, users can switch between different colors (teal, yellow, purple, and green).
 - #### Canvas Clear: 
-A "CLEAR" button gesture erases the canvas, providing a clean slate for new artwork.
+  A "CLEAR" button gesture erases the canvas, providing a clean slate for new artwork.
 - #### Drawing Canvas: 
-A canvas is displayed on the screen where users can draw with their hands. The application records and displays drawings in real-time.
+  A canvas is displayed on the screen where users can draw with their hands. The application records and displays drawings in real-time.
 - #### Flexible Drawing: 
-Users can draw freehand on the canvas by moving their hand in various directions, creating colorful strokes and patterns.
-
+  Users can draw freehand on the canvas by moving their hand in various directions, creating colorful strokes and patterns.
+ 
 ## Technical Stack:
 
 - #### Python: 
-The project is implemented in Python, utilizing its extensive libraries and tools for computer vision and user interface development.
+  The project is implemented in Python, utilizing its extensive libraries and tools for computer vision and user interface development.
 - #### OpenCV: 
-OpenCV is used for webcam access, video frame manipulation, and rendering.
+  OpenCV is used for webcam access, video frame manipulation, and rendering.
 - #### NumPy: 
-NumPy is employed for efficient array operations and data handling.
+  NumPy is employed for efficient array operations and data handling.
 - #### MediaPipe: 
-MediaPipe is the backbone for hand tracking and landmark detection.
+  MediaPipe is the backbone for hand tracking and landmark detection.
 - #### Deque: 
-Deques are used for managing and storing the coordinates of drawing points.
+  Deques are used for managing and storing the coordinates of drawing points.
 - #### GitHub: 
-The project is hosted on GitHub, providing version control, collaboration, and code sharing.
+  The project is hosted on GitHub, providing version control, collaboration, and code sharing.
 
 ## Usage:
 
