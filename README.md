@@ -73,7 +73,7 @@ pip install opencv-python numpy mediapipe
 - Execute the Python script to run the drawing application:
 
 ```bash
-python hand_gesture_drawing_app.py
+python app.py
 ```
 
 #### Interact with the Application:
