@@ -6,9 +6,9 @@ This project is a hand gesture-based drawing application that allows users to cr
 ## Key Features:
 
 - #### Hand Tracking: 
-The application utilizes the MediaPipe library to accurately track the user's hand movements in real-time.
+  The application utilizes the MediaPipe library to accurately track the user's hand movements in real-time.
 - #### Gesture Recognition: 
-Users can interact with the drawing canvas by performing specific hand gestures. Key gestures include:
+  Users can interact with the drawing canvas by performing specific hand gestures. Key gestures include:
 - #### Multiple Color Selection: 
 By positioning the hand over predefined color zones, users can switch between different colors (teal, yellow, purple, and green).
 - #### Canvas Clear: 
