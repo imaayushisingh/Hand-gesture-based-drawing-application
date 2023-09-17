@@ -51,12 +51,16 @@ This project can be used as an interactive educational tool, an art creation pla
 - Navigate to the directory where you want to clone the project.
 - Run the following command to clone the GitHub repository:
   
-```git clone https://github.com/imaayushisingh/hand-gesture-based-drawing-application.git```
+```bash
+git clone https://github.com/imaayushisingh/hand-gesture-based-drawing-application.git
+```
 
 #### Navigate to the Project Directory:
 - Change your working directory to the project folder:
   
-```cd hand-gesture-drawing-app```
+```bash
+cd hand-gesture-drawing-app
+```
 
 #### Install Dependencies:
 - Ensure you have the required Python dependencies installed. You can install them using pip:
@@ -68,7 +72,9 @@ pip install opencv-python numpy mediapipe
 #### Run the Application:
 - Execute the Python script to run the drawing application:
 
-```python hand_gesture_drawing_app.py```
+```bash
+python hand_gesture_drawing_app.py
+```
 
 #### Interact with the Application:
 - Once the application is running, your webcam feed should appear, and you can start using your hand gestures to draw on the canvas.
